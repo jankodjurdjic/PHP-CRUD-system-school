@@ -1,5 +1,5 @@
 <?php
-
+//vcs added
 include "../incl/data.inc.php";
 
 error_reporting(0);
